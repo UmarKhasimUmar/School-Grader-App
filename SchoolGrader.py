@@ -111,7 +111,7 @@ def gradeComput2(studList, chemScore, phyScore, bioScore, mathScore):
 
 def scorcardGenerator():
     print('Please note that the order of student names MUST be maintained in the score entries!')
-    studList = input('provide student names seperated by comma  ')  # ['chidi','chris','niyi','elfreda','toyeen','julius', 'Tamunosaki']
+    studList = input('provide student names seperated by comma  ')  # ['umar','khasim','ajeka','fhuad','bolaji','tunde', 'yinka']
     chem = input('provide scores for Chem seperated by comma  ')  # [45,56,36,78,87,47,89]
     phy = input('provide scores for Phy seperated by comma  ')  # [65,77,87,45,87,66,86]
     bio = input('provide scores for Bio seperated by comma  ')  # [78,75,79,49,67,54,79]
